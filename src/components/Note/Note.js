@@ -44,7 +44,7 @@ function Note() {
       setErrorClass('hide'); 
     }
   }, []);
-
+  //fdsfsdf
   function getNote(event) {
     event.preventDefault();
     let url = event.target.elements.url.value;
