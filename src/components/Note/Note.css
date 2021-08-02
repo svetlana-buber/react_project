@@ -1,0 +1,13 @@
+#url {
+    font-size: 17px;
+}
+
+.label {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+
+.p_error {
+    color: rgb(150, 14, 14) ;
+}
